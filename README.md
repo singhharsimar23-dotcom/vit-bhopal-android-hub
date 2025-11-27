@@ -51,3 +51,8 @@ Deployed and auto-updated via **Vercel** on every push to the `main` branch.
 
 **Live URL:** https://vit-bhopal-android-hub.vercel.app/
 
+
+
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/359ca60d-709b-4c5e-ae58-b67c0be6a87b" />
+
+
